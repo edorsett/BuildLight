@@ -1,5 +1,3 @@
-Author: Dave Neuman
-
 Description:
 BuildLight is used to query a Continuous Integration (Jenkins or Hudson only) project list and change a build light color based on project(s) status. 
 
